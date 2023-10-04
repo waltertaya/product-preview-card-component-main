@@ -65,7 +65,7 @@ p {
     body{
         margin: auto;
         display: flex;
-        margin-top: 3rem;
+        margin-top: 8rem;
 
         place-content: center;
         
@@ -85,7 +85,7 @@ p {
         border-top-left-radius: 20px; */
         border-bottom-left-radius: 20px;
         border-top-right-radius: 0px;
-        min-height: 75vh;
+        min-height: 40vh;
         width: 110%;
     
     }
@@ -118,4 +118,8 @@ p {
         font-size: 20px;
         font-family: 'Fraunces', serif;
     }  
+    .text {
+        margin-bottom: 10px;
+        width: 100%;
+    }
 }
